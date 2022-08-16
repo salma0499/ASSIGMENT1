@@ -1,0 +1,21 @@
+body
+{background-color: saddlebrown;}
+.header
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-flow: wrap;
+    background-color: rgb(233, 144, 10);
+    padding: 40px;
+ 
+}
+.comp2
+{
+
+display: flex;
+flex-direction: row;
+gap: 10px;
+row-gap: 10px;
+justify-content: space-between;
+}
